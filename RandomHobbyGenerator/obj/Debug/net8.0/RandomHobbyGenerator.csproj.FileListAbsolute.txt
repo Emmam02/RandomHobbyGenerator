@@ -1,0 +1,14 @@
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\bin\Debug\net8.0\RandomHobbyGenerator.exe
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\bin\Debug\net8.0\RandomHobbyGenerator.deps.json
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\bin\Debug\net8.0\RandomHobbyGenerator.runtimeconfig.json
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\bin\Debug\net8.0\RandomHobbyGenerator.dll
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\bin\Debug\net8.0\RandomHobbyGenerator.pdb
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.AssemblyInfoInputs.cache
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.AssemblyInfo.cs
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.dll
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\refint\RandomHobbyGenerator.dll
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.pdb
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\RandomHobbyGenerator.genruntimeconfig.cache
+C:\Users\emmam\Documents\C#\RandomHobbyGenerator\RandomHobbyGenerator\obj\Debug\net8.0\ref\RandomHobbyGenerator.dll
